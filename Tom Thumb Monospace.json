@@ -1,0 +1,42 @@
+{
+	"$baseURI": "https://yal.cc/r/20/pixelfont/",
+	"$version": "1.0",
+	"in-glyphs": [
+		" !\"#$%&'()*+,-./0123456789:;<=>?",
+		"@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_",
+		"`abcdefghijklmnopqrstuvwxyz{|}`",
+		""
+	],
+	"glyph-color": "black",
+	"in-kerning": [
+		""
+	],
+	"glyph-width": 3,
+	"glyph-height": 6,
+	"glyph-ofs-x": 0,
+	"glyph-ofs-y": 6,
+	"glyph-sep-x": 1,
+	"glyph-sep-y": 0,
+	"glyph-base-x": 0,
+	"glyph-baseline": 0,
+	"glyph-spacing": 1,
+	"font-is-mono": true,
+	"font-em-square": 4096,
+	"font-line-gap": 0,
+	"font-ascend": 256,
+	"font-descend": -1536,
+	"font-px-size": 256,
+	"font-name": "Tom Thumb Monospace",
+	"font-author": "Brian Swetland",
+	"font-copy": "CC0 or CC-BY 3.0",
+	"font-version": "",
+	"font-desc": "A very tiny, monospace, bitmap font",
+	"font-license": "CC0 or CC-BY 3.0",
+	"font-license-url": "",
+	"font-sample-text": "Hello!",
+	"font-preview-text": [
+		"THE QUICK BROWN FOX JUMPS OVER A LAZY DOG.",
+		"the quick brown fox jumps over a lazy dog.",
+		"0123456789"
+	]
+}
