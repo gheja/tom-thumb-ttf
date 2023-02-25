@@ -2,6 +2,8 @@
 
 A very tiny, monospace, bitmap font by Brian Swetland.
 
+![Tom Thumb](tom-thumb-new.png)
+
 Source:
   - https://robey.lag.net/2010/01/23/tiny-monospace-font.html
   - https://web.archive.org/web/20221217115820/https://robey.lag.net/2010/01/23/tiny-monospace-font.html
